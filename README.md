@@ -1,6 +1,6 @@
 # 51jobsinfo-spider
 info
-> 本章实现scrapy爬虫框架爬取51jobs网pyhton岗位求职信息并将数据保存到csv文件和MySQL数据库中，   博客地址[]()
+> 本章实现scrapy爬虫框架爬取51jobs网pyhton岗位求职信息并将数据保存到csv文件和MySQL数据库中，   博客地址[https://blog.csdn.net/weixin_43347550/article/details/106029283](https://blog.csdn.net/weixin_43347550/article/details/106029283)
 ### 本章将通过爬取51jobs求职网站中的python职位信息来实现不同方式的数据存储的需求。
 我们先来看一下：51jobs网站
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200509230416564.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzM0NzU1MA==,size_16,color_FFFFFF,t_70)
